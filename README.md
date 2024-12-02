@@ -67,8 +67,8 @@ AltiusBooking makes it easy to book meeting rooms and resources. Follow this gui
 
 ## **Contact Support**
 If you encounter any issues or have questions, contact your administrator:
-- Email: `support@yourorganization.com`
-- Phone: `+1-234-567-890`
+- Email: `devops@altius.cc`
+- Phone: `+91 22 6712400 Ext 24`
 
 ---
 
