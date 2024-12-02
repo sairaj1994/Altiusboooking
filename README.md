@@ -8,7 +8,7 @@ AltiusBooking makes it easy to book meeting rooms and resources. Follow this gui
 
 ### **1. Log In**
 1. Open the AltiusBooking application in your browser.
-   - Example URL: `https://mrbs.altius.cc
+   -  URL: `https://mrbs.altius.cc
 2. Use your login credentials to access the system.
    - If Single Sign-On (SSO) is enabled, click the SSO login button (e.g., **Log in with Google**).
 
